@@ -74,7 +74,6 @@ Bereiten Sie Ihre Server für das Aufsetzen einer AD-Gesamtstruktur vor. Im Vide
 **Hinweis: Ihre DNS-Zone für das AD muss nicht wie im Video gezeigt vorher manuell erstellt werden**
 
 > [!TIP]
->
 > Erstellen Sie nach dieser Aufgabe Backup bzw. Snapshots von Ihren VMs, damit Sie im Falle wieder auf diesen Zustand zurückkehren könnten.
 
 # Kontrolle:

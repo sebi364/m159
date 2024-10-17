@@ -9,9 +9,7 @@ Herzlich willkommen im Modul 159!
 
 ## Aufbau der Unterlagen zum Modul
 - [1. Aufträge](./01_aufträge/README.md)
-    - [1.1 Umgbung planen und aufsetzen](./01_aufträge/01_umgebung_planen_und_aufsetzen.md)
-    - [1.2 Router installieren & configurieren](./01_aufträge/02_router-aufsetzen.md)
-    
+ 
 ### 01_Instruktionen
 Hier erfahren Sie wie das Modul aufgebaut ist und durchgeführt wird.
 

@@ -1,4 +1,4 @@
-# Aufgabe 2 – «pf sense» installieren und konfigurieren – 1 Punkt
+# **Aufgabe 2:** pfsense installieren und konfigurieren – 1 Punkt
 ## Installation:
 1. ISO-Datei herunterladen: `(https://www.pfsense.org/download/)`
 1. Neue virtuelle Maschine erstellen
@@ -20,7 +20,7 @@
         **Passwort:** `pfsense`
 
     - Konfigurieren Sie die Interface assignments:
-    
+
         ![Picture1](./bilder/router/02.png)
 
     - Firewall Regel kopieren
@@ -34,7 +34,8 @@
 ## Test:
 Pingen Sie Server 1 von Server 2 aus und umgekehrt. Falls der ping ankommt, ist das Routing korrekt eingerichtet. 
 
-***Achtung:** Machen Sie ein Backup, Snapshot oder Checkpoint vom Router, wenn er funktioniert.*
+> [!TIP]
+>  Machen Sie ein Backup, Snapshot oder Checkpoint vom Router, wenn er funktioniert.
 
 
 ## Kontrolle:
