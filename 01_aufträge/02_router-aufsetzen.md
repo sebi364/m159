@@ -20,6 +20,7 @@
         **Passwort:** `pfsense`
 
     - Konfigurieren Sie die Interface assignments:
+    
         ![Picture1](./bilder/router/02.png)
 
     - Firewall Regel kopieren
