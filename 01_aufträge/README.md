@@ -5,3 +5,4 @@
 * [4. Client in Domäne einbinden](./04_client.md) `(1P)`
 * [5. Gruppen und Berechtigungen im AD](./05_ad-erste-schritte.md) `(5P)`
 * [6. Directory Information Tree](./06_dit-design.md) `(2P)`
+* [7. Zusätzliche DCs hinzufügen & prompten](./07_dcs-hinzufügen.md) `(1.5P)`

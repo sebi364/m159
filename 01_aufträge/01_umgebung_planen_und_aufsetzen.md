@@ -70,10 +70,10 @@ Folgende Einstellungen müssen Sie auf sämtliches System vornehmen. Auf dem «W
 ## Spezifizierte Konfiguration auf den VMs festlegen *(Praktische Überprüfung)* `(1 Punkt)`
 Machen Sie die Einstellungen auf den VMs, welche Sie im Portfolio unter Punkt 1 festgelegt haben.
 
-Bereiten Sie Ihre Server für das Aufsetzen einer AD-Gesamtstruktur vor. Im Video «Active Directory-Installation vorbereiten.wmv» wird Ihnen gezeigt, was dazu alles gemacht werden muss. 
-**Hinweis: Ihre DNS-Zone für das AD muss nicht wie im Video gezeigt vorher manuell erstellt werden**
+Bereiten Sie Ihre Server für das Aufsetzen einer AD-Gesamtstruktur vor. Im Video [Active Directory-Installation vorbereiten.wmv](https://sway.cloud.microsoft/qv95MgyYR8FZpGu8) wird Ihnen gezeigt, was dazu alles gemacht werden muss. 
 
 > [!TIP]
+> Ihre DNS-Zone für das AD muss nicht wie im Video gezeigt vorher manuell erstellt werden**
 > Erstellen Sie nach dieser Aufgabe Backup bzw. Snapshots von Ihren VMs, damit Sie im Falle wieder auf diesen Zustand zurückkehren könnten.
 
 # Kontrolle:
